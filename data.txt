@@ -1,0 +1,6 @@
+char 
+short
+int 
+long
+long long
+
