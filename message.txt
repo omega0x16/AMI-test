@@ -1,1 +1,2 @@
 "initial message"
+"user2 add the 1st message"
